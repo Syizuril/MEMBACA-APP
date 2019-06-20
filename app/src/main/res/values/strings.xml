@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Mengenal Burung Nusantara</string>
+    <string name="data_diterima">Data Diterima</string>
+    <string name="card_view">Card View</string>
+    <string name="grid_view">Grid View</string>
+    <string name="list_view">List View</string>
+    <string name="share">Share</string>
+    <string name="favorite">Favorite</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="klasifikasi">Klasifikasi</string>
+    <string name="kerajaan">Kerajaan</string>
+    <string name="kelas">Kelas</string>
+    <string name="ordo">Ordo</string>
+    <string name="familia">Familia</string>
+    <string name="genus">Genus</string>
+    <string name="spesies">Spesies</string>
+</resources>
